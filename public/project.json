@@ -1,0 +1,207 @@
+[
+  {
+    "id": 6,
+    "name": "The Daily Cup Ecommerce Platform",
+    "image": "https://i.ibb.co/gvyjqCC/Screenshot-2024-07-25-031851.png",
+    "allImage": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/Sc2mnkM/Screenshot-2024-07-25-032035.png"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/643KDgQ/Screenshot-2024-07-25-032002.png"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/gvyjqCC/Screenshot-2024-07-25-031851.png"
+      }
+    ],
+    "title": " Development of a Full-Stack Ecommerce Platform for the Sale of Tea and Coffee Products, Featuring User Authentication, Product Catalog Management, Shopping Cart Functionality, Secure Payment Integration (SSL Commerce), Order Processing, Inventory Management, Customer Relationship Management, and Administrative Dashboards.",
+    "clientCode": "https://github.com/prasanjitsarker3/Coffe-Client",
+    "serverCode": "https://github.com/prasanjitsarker3/Coffee-Server",
+    "live": "https://tea-client.vercel.app",
+    "details": "The Daily Cup is an e-commerce platform specializing in tea and coffee. It offers features such as product search, filtering, categorization, top picks, and personalized recommendations. Customers can add items to their cart, checkout securely using login credentials or cash, and track orders through user dashboards. The platform includes an administrative dashboard for managing orders, among other functions. Order confirmations are emailed to customers for processing and delivery. Users can provide feedback on their purchases.",
+    "technologies": [
+      "Node JS",
+      "TypeScript",
+      "PostgreSQL",
+      "Prisma",
+      "Next.js",
+      "Redux",
+      "React-Hook-From",
+      "Zod",
+      "JWT",
+      "Next UI",
+      "Framer Motion"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pet Adoption Application",
+    "image": "https://i.ibb.co/WxvytTQ/Screenshot-2024-07-04-191007.png",
+    "allImage": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/JFYTJKd/Screenshot-2024-07-04-191105.png"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/ZGDbMq3/Screenshot-2024-07-04-191319.png"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/Ky6kX36/Screenshot-2024-07-04-191230.png"
+      }
+    ],
+    "title": " Online Platform for Facilitating Pet Adoptions Through User-Friendly Interface and Efficient Admin Controls",
+    "clientCode": "https://github.com/prasanjitsarker3/Pet-Adoption-Client",
+    "serverCode": "https://github.com/prasanjitsarker3/Pet-Adoption-Server",
+    "live": "https://adoption-client.vercel.app",
+    "details": "Implemented a user-friendly interface for pet adoption requests and management. Users can securely log in, request pet adoptions, and track their status. Admins have full CRUD capabilities for pets and user management. JWT authentication ensures secure access to features.",
+    "technologies": [
+      "Node JS",
+      "TypeScript",
+      "PostgreSQL",
+      "Prisma",
+      "Next.js",
+      "Redux",
+      "React-Hook-From",
+      "Zod",
+      "JWT",
+      "Material UI",
+      "Axios"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Full Stack Bike Management Dashboard",
+    "image": "https://i.ibb.co/gD7cmt3/Screenshot-2024-03-02-185142.png",
+    "allImage": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/gD7cmt3/Screenshot-2024-03-02-185142.png"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/FznZzVs/Screenshot-2024-03-02-185037.png"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/FmQDxGK/Screenshot-2024-03-02-185216.png"
+      }
+    ],
+    "title": " The system offers user and manager roles, each with a dedicated dashboard. Managers create and publish new bikes, maintain bike data, handle duplicates and deletions, and manage bike orders.",
+    "clientCode": "https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-fronten-prasanjitsarker3",
+    "serverCode": "https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-backend-prasanjitsarker3",
+    "live": "https://bikemanagement.netlify.app/login",
+    "details": " The system offers user and manager roles, each with a dedicated dashboard. Managers create and publish new bikes, maintain bike data, handle duplicates and deletions, and manage bike orders. Users create accounts, order bikes, and request servicing with potential discounts. Managers oversee service requests, assign servicing dates, and maintain bike order history (daily, weekly, monthly)",
+    "technologies": [
+      "Node JS",
+      "TypeScript",
+      "Mongoose",
+      "React JS",
+      "Redux",
+      "React-Hook-From",
+      "Ant Design",
+      "Tailwind",
+      "JWT",
+      "Zod"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Art Craft Course Application(MERN)",
+    "image": "https://i.ibb.co/crVXGzr/Screenshot-2023-07-01-161625.png",
+    "allImage": [
+      {
+        "id": "1",
+        "img": "https://i.ibb.co/crVXGzr/Screenshot-2023-07-01-161625.png"
+      },
+      {
+        "id": "2",
+        "img": "https://i.ibb.co/5xvygP9/Screenshot-2024-03-03-220116.png"
+      },
+      {
+        "id": "3",
+        "img": "https://i.ibb.co/8zvnZS7/Screenshot-2024-03-03-220319.png"
+      }
+    ],
+    "title": "Secure, User-Centric Learning Management System Featuring Course Creation, Management, and Robust Data Protection",
+    "clientCode": "https://github.com/prasanjitsarker3/Art-Craft-Course-Management",
+    "serverCode": "https://github.com/prasanjitsarker3/Art-Craft-Course-Management-Server",
+    "live": "https://cartandcarft.web.app",
+    "details": "Anyone can effortlessly create an account and select their desired online course on the website. Access to the system is granted upon completing online payment. The dashboard features three distinct panels: User, Instructor, and Admin. Users can access course information, instructors can add new courses, and admins have full control over the website. Each panel prioritizes data protection, privacy, and security.",
+
+    "technologies": [
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "React JS",
+      "React-Hook-From",
+      "Daisy UI",
+      "Tailwind",
+      "Firebase",
+      "Jwt"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Online appointment booking application(MERN)",
+    "image": "https://i.ibb.co/DRWH7k3/Screenshot-2024-03-03-223043.png",
+    "allImage": [
+      {
+        "id": "1",
+        "img": "https://i.ibb.co/DRWH7k3/Screenshot-2024-03-03-223043.png"
+      },
+      {
+        "id": "2",
+        "img": "https://i.ibb.co/5jRGGNV/Screenshot-2024-03-03-223219.png"
+      },
+      {
+        "id": "3",
+        "img": "https://i.ibb.co/QF80Bkk/Screenshot-2024-03-03-223112.png"
+      }
+    ],
+    "title": "User-Centric Online Appointment System with MERN Stack Technology.",
+    "clientCode": "https://github.com/prasanjitsarker3/doctor-portal",
+    "serverCode": "https://github.com/prasanjitsarker3/doctor-portal-server",
+    "live": "https://doctor-management-9b2bf.web.app",
+    "details": "Designed and implemented a user-friendly interface for patients to book appointments online, reducing wait times and improving accessibility. Users can conveniently take appointments through email and have online consultations with doctors at any time. The system includes user and admin dashboards where detailed information can be accessed.",
+    "technologies": [
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "React JS",
+      "React-Hook-From",
+      "Material Tailwind",
+      "Tailwind",
+      "Firebase",
+      "Jwt"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Online quiz Application(JavaScript, React JS)",
+    "image": "https://i.ibb.co/pJ9d8t6/Screenshot-2024-03-04-203248.png",
+    "allImage": [
+      {
+        "id": "1",
+        "img": "https://i.ibb.co/pJ9d8t6/Screenshot-2024-03-04-203248.png"
+      },
+      {
+        "id": "2",
+        "img": "https://i.ibb.co/z4p5nxb/Screenshot-2024-03-04-203613.png"
+      },
+      {
+        "id": "3",
+        "img": "https://i.ibb.co/q72y1b0/Screenshot-2024-03-04-203637.png"
+      }
+    ],
+    "title": "Develop an Online quiz website using the Javascript and React JS technology stack.",
+    "clientCode": "https://github.com/prasanjitsarker3/CodeA1/tree/main/QuizHero",
+    "live": "https://superlative-starship-92d73e.netlify.app",
+    "details": "Create an online quiz application with react js and javascript. Anyone can take a quiz exam and receive the results. The user must first start the quiz, and there is a time limit of 60 seconds.When the timer runs out, automatically submit the quiz. The user selects question options and submits them, which then displays how the questions are correct and incorrect. The total result is shown in the results section. Sentence correction alone.",
+    "technologies": ["JavaScript", "React JS", "Tailwind"]
+  }
+]
