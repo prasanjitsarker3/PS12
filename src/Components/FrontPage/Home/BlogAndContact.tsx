@@ -1,10 +1,9 @@
 "use client";
 import React from "react";
 import { useForm } from "react-hook-form";
-import Personal from "./Personal";
 import { toast } from "sonner";
 import { SendHorizontal } from "lucide-react";
-import { sendMessage } from "@/Components/UtlitiFunction/sendMessage";
+import { sendMessage } from "@/components/UtlitiFunction/sendMessage";
 
 const BlogAndContact = () => {
   const {

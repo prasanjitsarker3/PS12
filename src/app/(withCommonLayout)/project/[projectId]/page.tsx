@@ -1,6 +1,6 @@
 "use client";
 
-import SkeletonDetail from "@/Components/FrontPage/Skeleton";
+import SkeletonDetail from "@/components/FrontPage/Skeleton";
 import { Button, Chip } from "@nextui-org/react";
 import { Home } from "lucide-react";
 import Image from "next/image";

@@ -1,10 +1,10 @@
-import About from "@/Components/FrontPage/Home/About";
-import Banner from "@/Components/FrontPage/Home/Banner";
-import BlogAndContact from "@/Components/FrontPage/Home/BlogAndContact";
-import Footer from "@/Components/FrontPage/Home/Footer";
-import Personal from "@/Components/FrontPage/Home/Personal";
-import Projects from "@/Components/FrontPage/Home/Projects";
-import Technology from "@/Components/FrontPage/Home/Technology";
+import About from "@/components/FrontPage/Home/About";
+import Banner from "@/components/FrontPage/Home/Banner";
+import BlogAndContact from "@/components/FrontPage/Home/BlogAndContact";
+import Footer from "@/components/FrontPage/Home/Footer";
+import Personal from "@/components/FrontPage/Home/Personal";
+import Projects from "@/components/FrontPage/Home/Projects";
+import Technology from "@/components/FrontPage/Home/Technology";
 
 export default function Home() {
   return (

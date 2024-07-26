@@ -53,7 +53,7 @@ const Projects = () => {
                 className="w-full h-64 rounded-lg"
               />
               <motion.div className="absolute top-0 left-0 w-full h-full flex flex-col items-center justify-center bg-black bg-opacity-60 opacity-0 hover:opacity-100 rounded-lg transition-opacity duration-300">
-                <h1 className=" text-[#009277] font-exotwo text-lg px-3 brightness-100">
+                <h1 className=" text-white text-center font-bold vigaRegular text-lg px-3 ">
                   {project.name}
                 </h1>
                 <p className="px-8 text-center text-sm text-white">

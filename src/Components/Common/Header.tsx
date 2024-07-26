@@ -13,8 +13,9 @@ import {
   SunIcon,
   X,
 } from "lucide-react";
-import { ThemeSwitcher } from "../UtlitiFunction/ThemeSwitcher";
+
 import Image from "next/image";
+import { ThemeSwitcher } from "../UtlitiFunction/ThemeSwitcher";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);

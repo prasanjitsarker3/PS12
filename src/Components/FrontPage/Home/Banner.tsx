@@ -22,7 +22,7 @@ const Banner = () => {
 
   return (
     <div className="h-screen w-full bg-white dark:bg-gray-800 ">
-      <div className="w-full h-full flex flex-col md:flex-row items-center justify-between md:px-24 px-8 md:pt-0 pt-16">
+      <div className="w-full h-full flex flex-col md:flex-row items-center justify-between md:px-24 px-8 md:pt-0 pt-20">
         <motion.div
           className="md:w-1/2 w-full flex flex-col space-y-2 text-center md:text-left"
           initial={{ opacity: 0, x: -50 }}
@@ -87,7 +87,7 @@ const Banner = () => {
           </div>
         </motion.div>
         <motion.div
-          className="md:w-1/2 w-full flex justify-center"
+          className="md:w-1/2 md:mt-0 -mt-6 w-full flex justify-center"
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
